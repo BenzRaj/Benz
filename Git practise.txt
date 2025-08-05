@@ -1,9 +1,9 @@
 Hello RNTBCI
 
-QA testing resolve
+QA testing 
  
 
-Git Practise resolve
+Git Practise 
  
 
 Hello World!!
@@ -11,3 +11,5 @@ Hello World!!
 Hii Nissan
 
 Hii Benz
+
+
