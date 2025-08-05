@@ -1,9 +1,9 @@
 Hello RNTBCI
 
-QA testing resolve
+QA testing 123
  
 
-Git Practise resolve
+Git Practise 123
  
 
 Hello World!!
