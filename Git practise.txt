@@ -1,7 +1,9 @@
 Hello Renualt
 
-QA testing!!!!
+QA testing resolve
+ 
 
-Git Practise!!!!
+Git Practise resolve
+ 
 
 Hello World!!
